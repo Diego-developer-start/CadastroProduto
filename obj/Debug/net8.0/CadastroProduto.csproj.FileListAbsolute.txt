@@ -1,0 +1,15 @@
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.AssemblyInfoInputs.cache
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.AssemblyInfo.cs
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.csproj.CoreCompileInputs.cache
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.sourcelink.json
+/workspaces/CadastroProduto/bin/Debug/net8.0/CadastroProduto
+/workspaces/CadastroProduto/bin/Debug/net8.0/CadastroProduto.deps.json
+/workspaces/CadastroProduto/bin/Debug/net8.0/CadastroProduto.runtimeconfig.json
+/workspaces/CadastroProduto/bin/Debug/net8.0/CadastroProduto.dll
+/workspaces/CadastroProduto/bin/Debug/net8.0/CadastroProduto.pdb
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.dll
+/workspaces/CadastroProduto/obj/Debug/net8.0/refint/CadastroProduto.dll
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.pdb
+/workspaces/CadastroProduto/obj/Debug/net8.0/CadastroProduto.genruntimeconfig.cache
+/workspaces/CadastroProduto/obj/Debug/net8.0/ref/CadastroProduto.dll
